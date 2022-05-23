@@ -49,3 +49,18 @@ export const userData = [
     },
 
 ];
+
+// import Avatar from "../../image/Avatar.jpg";
+
+export const userRows = [
+    { id: 1, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=45' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 2, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=33' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 3, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=32' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 4, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=15' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 5, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=55' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 6, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=21' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 7, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=41' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 8, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=23' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 9, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=38' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+    { id: 10, username: 'Jon Snow', avatar:'https://i.pravatar.cc/150?img=44' , email: "jon@gmail.com" , status: 'action', transaction: "$120,00", },
+     ];

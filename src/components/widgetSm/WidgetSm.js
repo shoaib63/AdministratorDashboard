@@ -4,7 +4,7 @@ import "./WidgetSm.css"
 
 import profile from "../../image/Avatar.jpg"
 import VisibilityIcon from '@mui/icons-material/Visibility';
-import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
+// import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 
 const widgetSm = () => {
     return (
@@ -12,7 +12,7 @@ const widgetSm = () => {
             <span className="widgetSmTitle">New Join Members</span>
             <ul className="widgetSmList">
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://i.pravatar.cc/150?img=8" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Shoaib Miraki</span>
                         <span className="widgetSmUserTitle">Programmer</span>
@@ -23,7 +23,7 @@ const widgetSm = () => {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://i.pravatar.cc/150?img=14" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Shoaib Miraki</span>
                         <span className="widgetSmUserTitle">Programmer</span>
@@ -34,7 +34,7 @@ const widgetSm = () => {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://i.pravatar.cc/150?img=19" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Shoaib Miraki</span>
                         <span className="widgetSmUserTitle">Programmer</span>
@@ -45,7 +45,7 @@ const widgetSm = () => {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://i.pravatar.cc/150?img=17" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Shoaib Miraki</span>
                         <span className="widgetSmUserTitle">Programmer</span>
@@ -56,7 +56,7 @@ const widgetSm = () => {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://i.pravatar.cc/150?img=25" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Shoaib Miraki</span>
                         <span className="widgetSmUserTitle">Programmer</span>

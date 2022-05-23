@@ -19,7 +19,7 @@ const widgetLg = () => {
                 </tr>
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                        <img src={profile} alt="" className="widgetLgImg" />
+                        <img src="https://i.pravatar.cc/150?img=2" alt="" className="widgetLgImg" />
                         <span className="widgetLgName">Susan Carol</span>
                     </td> 
                     <td className="widgetLgDate">2 Jun 2022</td>
@@ -28,7 +28,7 @@ const widgetLg = () => {
                 </tr>  
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                        <img src={profile} alt="" className="widgetLgImg" />
+                        <img src="https://i.pravatar.cc/150?img=9" alt="" className="widgetLgImg" />
                         <span className="widgetLgName">Susan Carol</span>
                     </td> 
                     <td className="widgetLgDate">2 Jun 2022</td>
@@ -37,7 +37,7 @@ const widgetLg = () => {
                 </tr> 
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                        <img src={profile} alt="" className="widgetLgImg" />
+                        <img src="https://i.pravatar.cc/150?img=6" alt="" className="widgetLgImg" />
                         <span className="widgetLgName">Susan Carol</span>
                     </td> 
                     <td className="widgetLgDate">2 Jun 2022</td>
@@ -46,7 +46,7 @@ const widgetLg = () => {
                 </tr> 
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                        <img src={profile} alt="" className="widgetLgImg" />
+                        <img src="https://i.pravatar.cc/150?img=20" alt="" className="widgetLgImg" />
                         <span className="widgetLgName">Susan Carol</span>
                     </td> 
                     <td className="widgetLgDate">2 Jun 2022</td>
